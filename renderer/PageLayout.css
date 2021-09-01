@@ -1,0 +1,20 @@
+/* This CSS is common to all pages */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+* {
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+
+.navitem {
+  padding: 3px;
+}
