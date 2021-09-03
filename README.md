@@ -31,5 +31,5 @@ https://vite-plugin-ssr.com/pre-rendering
 
 tailwind:
 ```bash
-npx tailwindcss init --postcss
+npx tailwindcss init --postcss --full
 ```
